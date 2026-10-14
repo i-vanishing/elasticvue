@@ -1153,7 +1153,7 @@ dependencies = [
 [[package]]
 name = "fetch_reqwest"
 version = "0.1.0"
-source = "git+https://github.com/cars10/fetch_reqwest#943849f7e6f707f0e477e7622bc5fd0a92ac038b"
+source = "git+https://github.com/i-vanishing/fetch_reqwest?branch=respect-no-proxy#9dab5f69355c30dd927e00e045345281a2eb2ec9"
 dependencies = [
  "log",
  "multimap",

@@ -21,7 +21,7 @@ serde_json = "1.0"
 serde = { version = "1.0", features = ["derive"] }
 tauri = { version = "2", features = [] }
 #fetch_reqwest = { path = '../../../rust/fetch_reqwest' }
-fetch_reqwest = { git = "https://github.com/cars10/fetch_reqwest" }
+fetch_reqwest = { git = "https://github.com/i-vanishing/fetch_reqwest", branch = "respect-no-proxy" }
 path-clean = "1"
 env_logger = "0.11.3"
 tauri-plugin-fs = "2"
